@@ -1,0 +1,61 @@
+.bg{
+	background-image: url(clown.jpg);
+}
+
+.header-h {
+	height: 50px;
+}
+
+.cont-h {
+	height: 1000px;
+}
+
+.dang-h{
+	height: 500px;
+}
+.mt-3 {
+  margin-top: 3 !important;
+}
+
+.history-h {
+	height: 400px;
+}
+.rec-h {
+	height: 230px;
+}
+
+.ml-1 {
+  margin-left: ($spacer * .25) !important;
+}
+
+.header2 {
+	height: 35px;
+}
+
+.logo2 {
+	width: 120px; 
+	height: 30px
+}
+.logo {
+	width: 30px; 
+	height: 30px
+}
+
+.height-w {
+	height: 100px;
+}
+
+.logo3 {
+	height: 70px;
+	width: 70px
+}
+
+.logo4 {
+	height: 50px;
+	width: 50px
+}
+
+.logo5 {
+	height: 300px;
+	width: 500px
+}
